@@ -1,153 +1,52 @@
 <h1 align="center">Hi 👋, I'm İpek Nur Yurttaş</h1>
 
 <h3 align="center">
-Software Engineer | Backend Developer | AI & Machine Learning Enthusiast
+Software Engineer | Backend & Full Stack Developer | AI Enthusiast
 </h3>
+
+<p align="center">
+I build backend systems, modern web applications, mobile solutions, and AI-powered products.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Software Engineering Graduate
+🎓 Software Engineering graduate with hands-on experience in **Java, Spring Boot, Python, FastAPI, React, Flutter, and SQL**.
 
-💻 Passionate about building scalable backend systems, AI-powered applications, and modern web platforms.
+🚀 I enjoy developing reliable REST APIs, full-stack applications, intelligent systems, and practical software solutions.
 
-🚀 Interested in
-
-- Backend Development
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- REST API Development
-- Mobile Application Development
+🌱 Currently improving my skills in **microservices, cloud technologies, CI/CD, and distributed systems**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
-### 💻 Languages
-
-- ☕ Java
-- 🐍 Python
-- 💛 JavaScript
-- 🗄 SQL
-
-### ⚙ Backend
-
-- 🌱 Spring Boot
-- 🔐 Spring Security
-- 📦 Spring Data JPA
-- ⚡ FastAPI
-- 🌐 REST API
-- 📖 Swagger
-
-### 🎨 Frontend
-
-- ⚛ React
-- HTML5
-- CSS3
-- Redux
-- Context API
-
-### 📱 Mobile
-
-- Flutter
-
-### 🤖 AI & Data
-
-- Machine Learning
-- NLP
-- PyTorch
-- LightGBM
-- YOLO
-- Data Mining
-- LLM Integration
-
-### 🛢 Databases
-
-- MySQL
-- PostgreSQL
-- Redis
-
-### 🧰 Tools
-
-- Git
-- GitLab
-- Docker
-- Docker Compose
-- Jenkins
-- Postman
-- Maven
-- Gradle
-- XMPP
+**Languages:** Java, Python, JavaScript, SQL
+**Backend:** Spring Boot, Spring Security, JPA, FastAPI, REST APIs
+**Frontend & Mobile:** React, HTML, CSS, Flutter
+**AI & Data:** Machine Learning, NLP, PyTorch, LightGBM, YOLO, LLM Integration
+**Databases:** PostgreSQL, MySQL, Redis
+**Tools:** Git, GitLab, Docker, Jenkins, Postman, Maven, Gradle
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛡 FinGuard AI
 
-AI-powered financial risk analysis platform combining
+Financial risk analysis platform combining **fraud detection** and **financial sentiment analysis** using FastAPI, LightGBM, Transformers, and Streamlit.
 
-- Fraud Detection
-- Financial News Sentiment Analysis
-- FastAPI
-- Streamlit
-- LightGBM
-- Transformers
+### 👁 IntelEye
+
+Object detection applications developed with **YOLO**, including drone, person, military vehicle, and fiber cable detection.
 
 ---
 
-### 💬 MobiVisor Messenger
+## 📫 Contact
 
-Messaging platform supporting
-
-- Telegram Integration
-- XMPP Communication
-- Mobile Messaging
-- Flutter Development
-
----
-
-### 🚗 Oto4T
-
-Vehicle management platform
-
-- Spring Boot
-- React
-- PostgreSQL
-- REST API
-
----
-
-### 📊 Data Mining & Machine Learning
-
-Projects involving
-
-- Clustering
-- Topic Modeling
-- NLP
-- Data Analysis
-
----
-
-## 🌱 Currently Learning
-
-- Microservices
-- Cloud Technologies
-- CI/CD
-- Distributed Systems
-
----
-
-## 📫 Connect with Me
-
-📧 Email: ipeknryurt86@gmail.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/ipek-nur-yurttaş-a1a263287
-
-🌐 GitHub
-
-https://github.com/Ipekyurttas
+<p>
+<a href="mailto:ipeknryurt86@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/ipek-nur-yurttaş-a1a263287">LinkedIn</a> •
+<a href="https://github.com/Ipekyurttas">GitHub</a>
+</p>
