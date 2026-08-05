@@ -22,12 +22,13 @@ I build backend systems, modern web applications, mobile solutions, and AI-power
 
 ## 🛠 Technologies
 
-**Languages:** Java, Python, JavaScript, SQL
-**Backend:** Spring Boot, Spring Security, JPA, FastAPI, REST APIs
-**Frontend & Mobile:** React, HTML, CSS, Flutter
-**AI & Data:** Machine Learning, NLP, PyTorch, LightGBM, YOLO, LLM Integration
-**Databases:** PostgreSQL, MySQL, Redis
-**Tools:** Git, GitLab, Docker, Jenkins, Postman, Maven, Gradle
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Security, JPA, FastAPI, REST APIs
+- **Frontend:** React, HTML, CSS
+- **Mobile:** Flutter
+- **AI & Data:** Machine Learning, NLP, PyTorch, LightGBM, YOLO, LLM Integration
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Tools:** Git, GitLab, Docker, Jenkins, Postman, Maven, Gradle
 
 ---
 
